@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Luis Rodriguez 👋
+
+I'm a developer based in Tokyo.
+
+I like technology, football, and videogames 💻⚽️🎮
+
+I speak English, Spanish, and Japanese(N3).
+
+Contact: rodluisr@gmail.com
 
 <!--
 **luisrrv/luisrrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
