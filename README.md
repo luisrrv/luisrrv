@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Luis Rodriguez
-#### I'm a developer based in Tokyo.
+### Hi there👋, I'm *Luis Rodriguez*
+#### I'm a self-taught developer based in Tokyo.
 I like technology, football, and video games 💻⚽️🎮
 
 
