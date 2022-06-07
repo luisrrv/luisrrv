@@ -1,6 +1,10 @@
 <h1 align="start">Hi 👋, I'm Luis</h1>
 <h3 align="start">A passionate web developer based in Tokyo</h3>
 
+📚 - I'm currently learning TypeScript
+
+⚽️ - Also a big football fan!
+
 📫 - Reach me at **rodluisr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
