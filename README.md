@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A passionate software developer based in Tokyo</h3>
+<h1 align="start">Hi 👋, I'm Luis</h1>
+<h3 align="start">A passionate web developer based in Tokyo</h3>
 
-📫 Reach me at **rodluisr@gmail.com**
+📫 - Reach me at **rodluisr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
