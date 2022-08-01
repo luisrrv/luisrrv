@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋 I'm Luis! <br>A Software Developer based in Tokyo.</h2>
-<p align="center"><sub><sup>That's it. Follow/contact me ⬇️</sup></sub></p>
+<p align="center"><sub><sup>That's it. Connect with me? ⬇️</sup></sub></p>
 
 ###
 
