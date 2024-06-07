@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://typograssy.deno.dev/api?text=Hello%20world!&l0=161b22&l1=39d353&l2=26a641&l3=016c31&l4=0d4429&bg=0e1117" height="200" alt="Hello world!"  />
+    <img src="https://typograssy.deno.dev/api?text=Hello%20world!&l0=161b22&l1=39d353&l2=26a641&l3=016c31&l4=0d4429&bg=0e1117" height="127" alt="Hello world!"  />
 </div>
 
-<h2 align="center">👋 I'm Luis Rodriguez, <br>a Software Developer based in Tokyo.</h2>
+<h3 align="center">👋 I'm Luis Rodriguez, <br>a Software Developer based in Tokyo.</h3>
 <p align="center"><sub><sup>That's it. Connect with me? ⬇️</sup></sub></p>
 
 ###
