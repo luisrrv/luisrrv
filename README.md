@@ -1,9 +1,9 @@
 ### Luis Rodriguez
 
-Software engineer in Tokyo. 
+Software engineer in Tokyo.
 
-End-to-end web systems — React, Node, PHP, MySQL on AWS. 
+Production LINE Mini Apps and the developer platform behind them — React, TypeScript, Node, PHP, Python, MySQL.
 
-Most recent work: real-time messaging, third-party API integration, and software for the Japanese market.
+Recently: running untrusted UI code safely (component-playground), real-time messaging, and software for the Japanese market.
 
 [lrod.dev](https://lrod.dev) · [LinkedIn](https://www.linkedin.com/in/luisrrv/)
